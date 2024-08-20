@@ -46,8 +46,6 @@ dependencies {
 	implementation 'org.apache.tomcat.embed:tomcat-embed-el'
 }
 
-
-
 tasks.named('test') {
 	useJUnitPlatform()
 }
